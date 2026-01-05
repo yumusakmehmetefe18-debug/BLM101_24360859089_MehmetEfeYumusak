@@ -8,7 +8,7 @@ Adı Soyadı: Mehmet Efe Yumuşak
 
 Bölümü: Bilgisayar Mühendisliği 
 
-2. Proje Konusu
+Proje Konusu
 
 Konu Başlığı: 5. Grup: Ağlar, İnternet ve HTML 
 
@@ -16,12 +16,12 @@ Kitap Referansı: Chapter 4 (4.2 The Internet, 4.3 The World Wide Web)
 
 Python Projesi: Python ile HTML Sayfası Oluşturucu 
 
-3. Proje Sunum Videosu
+Proje Sunum Videosu
 Aşağıdaki bağlantı üzerinden sunum ve kod uygulama videosuna ulaşabilirsiniz:
 
 YouTube Sunum Linki: [BURAYA YOUTUBE VİDEO LİNKİNİZİ YAPIŞTIRIN] 
 
-4. Proje Açıklaması
+Proje Açıklaması
 Bu proje, kullanıcının konsol üzerinden girdiği kişisel bilgileri alarak bu verileri görsel olarak düzenlenmiş statik bir web sitesine dönüştüren bir otomasyon yazılımıdır.
 
 Kodun Ne Yaptığı:
@@ -44,7 +44,7 @@ Dosya Yazma: Python'un "File Write" (Dosya Yazma) yetenekleri kullanılarak tüm
 
 Görselleştirme: HTML koduna gömülü CSS (Internal CSS) kullanılarak sayfanın modern bir görünüme sahip olması sağlanmıştır.
 
-5. Kurulum ve Çalıştırma
+Kurulum ve Çalıştırma
 Bilgisayarınızda Python yüklü olduğundan emin olun.
 
 src klasöründeki proje.py dosyasını indirin.
