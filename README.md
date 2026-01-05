@@ -19,7 +19,7 @@ Python Projesi: Python ile HTML Sayfası Oluşturucu
 Proje Sunum Videosu
 Aşağıdaki bağlantı üzerinden sunum ve kod uygulama videosuna ulaşabilirsiniz:
 
-YouTube Sunum Linki: [BURAYA YOUTUBE VİDEO LİNKİNİZİ YAPIŞTIRIN] 
+YouTube Sunum Linki: https://youtu.be/nWmC9FAXVWs
 
 Proje Açıklaması
 Bu proje, kullanıcının konsol üzerinden girdiği kişisel bilgileri alarak bu verileri görsel olarak düzenlenmiş statik bir web sitesine dönüştüren bir otomasyon yazılımıdır.
